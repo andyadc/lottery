@@ -21,6 +21,17 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
+
+        <dependency>
+            <groupId>com.andyadc.lottery</groupId>
+            <artifactId>lottery-application</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.andyadc.lottery</groupId>
+            <artifactId>lottery-infrastructure</artifactId>
+            <version>1.0.0</version>
+        </dependency>
     </dependencies>
 
 </project>
